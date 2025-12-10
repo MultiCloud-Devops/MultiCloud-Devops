@@ -1,6 +1,6 @@
 ## 👋 Krishnaiah L  
 
-I’m an Developer with a strong foundation in cloud technologies, automation, and full-stack development. Full-Stack Engineer with 8+ years of professional experience building automated, scalable cloud infrastructure and resilient software platforms.  
+I’m an DevOps/Developer with a strong foundation in cloud technologies, automation, and full-stack development. Full-Stack Engineer with 8+ years of professional experience building automated, scalable cloud infrastructure and resilient software platforms.  
 
 - 💻 I specialize in AWS, Kubernetes, Terraform, Docker, CI/CD pipelines, and multi-cloud deployments.  
 - 🚀 I love bridging development and operations: writing clean code, automating manual workflows, and architecting infrastructure for reliability and scale.  
