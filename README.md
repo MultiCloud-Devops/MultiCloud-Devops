@@ -12,5 +12,3 @@ I’m an DevOps/Developer with a strong foundation in cloud technologies, automa
 -  CI/CD pipelines & tooling  
 -  DevOps & cloud-native solutions  
 
-###  Connect with me  
-[LinkedIn](YOUR_LINKEDIN_URL) · Email: your-email@example.com  
